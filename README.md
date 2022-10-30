@@ -9,3 +9,5 @@
 🙏 If you find this repo helpful then don't forget to give a start ❇️  to this repository. :)
 
 ##danish bhai assalamwalekum kr lio pull rqst accept bhai nhi kr le bhai
+#Hacktoberfest PR
+Zubai Alam
